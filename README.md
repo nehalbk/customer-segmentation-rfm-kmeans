@@ -64,7 +64,7 @@ This project performs an RFM (Recency, Frequency, Monetary) analysis on customer
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nehalbk/Data-Analysis.git](https://github.com/nehalbk/customer-segmentation-rfm-kmeans.git
+   git clone https://github.com/nehalbk/customer-segmentation-rfm-kmeans.git
    ```
 2. Navigate to the project directory:
    ```bash
